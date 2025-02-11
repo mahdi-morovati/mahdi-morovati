@@ -44,7 +44,7 @@ I'm a passionate **Backend Developer, AI & Machine Learning Enthusiast, and Lara
 
 ## 🎯 Goals for 2025
 
-- Deepen expertise in ** Machine Learning, and AI**.
+- Deepen expertise in **Machine Learning, and AI**.
 - Contribute to **open-source projects**.
 
 ---
