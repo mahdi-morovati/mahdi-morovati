@@ -1,6 +1,6 @@
 # Hi there, I'm Mahdi Morovati! 👋
 
-I'm a passionate **Backend Developer, AI & Machine Learning Enthusiast, and Laravel Expert** who loves building innovative projects and solving complex problems. Welcome to my GitHub profile!
+I'm a passionate **.Net Developer, AI & Machine Learning Enthusiast, and Laravel Expert** who loves building innovative projects and solving complex problems. Welcome to my GitHub profile!
 
 ---
 
