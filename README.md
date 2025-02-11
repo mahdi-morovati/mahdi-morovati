@@ -37,7 +37,7 @@ I'm a passionate **Backend Developer, AI & Machine Learning Enthusiast, and Lara
 
 ## 📬 Connect with Me
 
-📧 **Email:** [morovati155@gmail.com](mailto:mahdi.morovati@example.com)  
+📧 **Email:** [morovati155@gmail.com](mailto:morovati155@gmail.com)  
 💼 **LinkedIn:** [Mahdi Morovati](https://www.linkedin.com/in/mahdi-morovati)    
 
 ---
