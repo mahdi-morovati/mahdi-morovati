@@ -44,7 +44,7 @@ I'm a passionate **.Net Developer, AI & Machine Learning Enthusiast, and Laravel
 
 ## 🎯 Goals for 2025
 
-- Deepen expertise in **Machine Learning, and AI**.
+- Deepen expertise in **.Net, Machine Learning, and AI**.
 
 ---
 
