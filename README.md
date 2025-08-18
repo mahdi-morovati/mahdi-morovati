@@ -37,7 +37,7 @@ I'm a passionate **.Net Developer, AI & Machine Learning Enthusiast, and Laravel
 ## 📬 Connect with Me
 
 📧 **Email:** [morovati155@gmail.com](mailto:morovati155@gmail.com)  
-💼 **LinkedIn:** [Mahdi Morovati](https://www.linkedin.com/in/mahdi-morovati)    
+💼 **LinkedIn:** [mahdi-morovati](https://www.linkedin.com/in/mahdi-morovati)    
 
 ---
 
